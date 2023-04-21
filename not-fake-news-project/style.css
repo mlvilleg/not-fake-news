@@ -1,0 +1,47 @@
+body,
+html {
+    width: 100%;
+    height: 100%;
+    font-family: '_Montserrat_' sans-serif;
+    background: url(Mormon_Row_Barn.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 3rem;
+    color: #007bff;
+}
+
+.btn {
+    font-weight: 700;
+    border-radius: 300px;
+    text-transform: uppercase;
+
+}
+
+.btn-outline-info {
+    background-color: #ffc107;
+    border-color: #ffc107;
+}
+
+.btn-outline-info:hover{
+    background-color: #ffb007;
+
+}
+
+.btn-xl {
+    padding: 1rem 2rem;
+}
+
+hr {
+    border-color: #ffb007;
+    border-width: 3px;
+    max-width: 65px;
+}
+
+.buffer{
+    height:3.5rem
+}
