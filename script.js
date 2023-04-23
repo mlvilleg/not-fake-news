@@ -7,7 +7,7 @@ var alertCount = 0;
 function createButton(){
     let btn = document.createElement("button");
     btn.innerHTML = "Random Button";
-    btn.setAttribute('class',"btn btn-outline-info btn-xl animate__animated animate__bounce animate__repeat-2");
+    btn.setAttribute('class',"btn btn-outline-info btn-xl animate__animated animate__bounce animate__repeat-1");
     button_section.appendChild(btn);
 
 }
