@@ -1,3 +1,17 @@
+
+//lodash example
+var _ = require("lodash");
+
+
+var array = [1,2,3,4,5]
+
+console.log("answer: ",_.without(array,3))
+
+//lodash example
+
+
+
+
 var button = document.getElementById("button");
 var button_section = document.getElementById("button_section");
 
